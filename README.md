@@ -25,7 +25,7 @@ Luhn.valid? number
 
 ## Credits
 
-This shard is fork of [luhn-ruby](https://github.com/rolfb/luhn-ruby) gem. 
+This shard is fork of [luhn-ruby](https://github.com/rolfb/luhn-ruby) gem.
 
 ## Contributing
 
@@ -41,4 +41,5 @@ This shard is fork of [luhn-ruby](https://github.com/rolfb/luhn-ruby) gem.
 - [dvrensk](https://github.com/dvrensk) David Vrensk
 - [Koronen](https://github.com/Koronen) Victor Koronen
 - [alan-andrade](https://github.com/alan-andrade) Alan Andrade
+- [sfritz](https://github.com/sfritz) Scott Fritz
 - [akzhan](https://github.com/akzhan) Akzhan Abdulin - maintainer of crystal shard
