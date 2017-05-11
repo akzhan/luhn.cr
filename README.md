@@ -1,4 +1,4 @@
-# luhn.cr
+# luhn.cr [![Build Status](https://travis-ci.org/akzhan/luhn.cr.png?branch=master)](https://travis-ci.org/akzhan/luhn.cr)
 
 Very simple library to calculate and validate Luhn numbers.
 
