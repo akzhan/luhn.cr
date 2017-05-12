@@ -1,4 +1,4 @@
-# luhn.cr [![Build Status](https://travis-ci.org/akzhan/luhn.cr.png?branch=master)](https://travis-ci.org/akzhan/luhn.cr)
+# luhn.cr [![Build Status](https://travis-ci.org/akzhan/luhn.cr.png?branch=master)](https://travis-ci.org/akzhan/luhn.cr) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Very simple library to calculate and validate Luhn numbers.
 
